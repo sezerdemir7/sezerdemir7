@@ -1,9 +1,45 @@
-<h1 align="center">Merhaba 👋, ben sezer</h1>
-<h3 align="center">arka uç geliştiricisi</h3>
+# Merhaba, Benim GitHub Profilime Hoş Geldiniz! 👋
 
-<h3 align="left">Benimle bağlantı kurun:</h3>
-<p align ="left">
-</p>
+![Profil Bannerı](link_to_banner_image)
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align = "left"> <a href = "https://www.cprogramming.com/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/ devicons/devicon/master/icons/c/c-original.svg" alt = "c" width = "40" height = "40"/> </a> <a href = "https://www.docker. com/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt = " liman işçisi" genişlik = "40" yükseklik = "40"/> </a> <a href = "https://git-scm.com/" target = "_blank" rel = "noreferrer"> <img src = " https://www.Vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www. java.com" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "java " genişlik = "40" yükseklik = "40"/> </a> <a href = "https://www.postgresql.org" target = "_blank" rel = "noreferrer"> <img src = "https: //raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt = "postgresql" width = "40" height = "40"/> </a> <a href = "https://reactjs.org/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt = "react" width = "40" height = "40"/> </ a> <a href = "https://spring.io/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon. svg" alt = "ilkbahar" genişlik = "40" yükseklik = "40"/> </a> </p>org/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt = " tepki" genişlik = "40" yükseklik = "40"/> </a> <a href = "https://spring.io/" target = "_blank" rel = "noreferrer"> <img src = "https: //www.vectorlogo.zone/logos/springio/springio-icon.svg" alt = "spring" width = "40" height = "40"/> </a> </p>org/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt = " tepki" genişlik = "40" yükseklik = "40"/> </a> <a href = "https://spring.io/" target = "_blank" rel = "noreferrer"> <img src = "https: //www.vectorlogo.zone/logos/springio/springio-icon.svg" alt = "spring" width = "40" height = "40"/> </a> </p>svg" alt = "react" width = "40" height = "40"/> </a> <a href = "https://spring.io/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt = "spring" width = "40" height = "40"/> </a> </p>svg" alt = "react" width = "40" height = "40"/> </a> <a href = "https://spring.io/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt = "spring" width = "40" height = "40"/> </a> </p>
+Ben [Adınız Soyadınız], yazılım geliştirme ve [alanınızı ekleyin] üzerinde çalışan bir yazılım mühendisiyim. Bu profil, projelerimi sergilemek, açık kaynak katkıları yapmak ve yazılım dünyasındaki deneyimimi paylaşmak için oluşturulmuştur.
+
+## 🧰 Teknolojiler ve Araçlar
+
+Aşağıda, kullandığım bazı ana teknolojileri ve araçları bulabilirsiniz:
+
+- **Diller:** C, Java
+- **Web Geliştirme:** HTML, CSS, React
+- **Veritabanları:** PostgreSQL
+- **Araçlar:** Git, VS Code, Docker
+
+## 🚀 Projeler
+
+Aşağıda, bazı önemli projelerimi bulabilirsiniz:
+
+### [Sclapp demo](https://sclapp.vercel.app/)
+
+Sosyal medya uygulaması demo versiyonu.
+
+
+
+
+## 📫 İletişim
+
+Sosyal medya ve iletişim bağlantılarınızı buraya ekleyin:
+
+- [LinkedIn](www.linkedin.com/in/sezer-demir-9ab5b223a)
+- [Twitter](https://twitter.com/)
+
+
+## 🌟 Beni Destekle
+
+Eğer projelerime katkıda bulunmak veya desteklemek isterseniz, projelerimi yıldızlamayı düşünün. Her tür katkı büyük bir destek olur!
+
+
+
+## 📊 GitHub İstatistikleri
+
+[![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?sezerdemir7=sezerdemir7)](https://github.com/anuraghazra/github-readme-stats)
+
+
