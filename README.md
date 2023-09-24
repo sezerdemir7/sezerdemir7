@@ -21,6 +21,14 @@ Aşağıda, bazı önemli projelerimi bulabilirsiniz:
 
 Sosyal medya uygulaması demo versiyonu.
 
+### [Sclapp backend code](https://github.com/sezerdemir7/socialmediaApp-backend)
+
+Sosyal medya uygulamsı backend  Java/Spring kodları.
+
+### [Sclapp frontend code](https://github.com/sezerdemir7/socialmediaApp-frontEnd)
+
+Sosyal medya uygulamsı frontend React kodları.
+
 
 
 
