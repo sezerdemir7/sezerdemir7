@@ -1,8 +1,8 @@
 # Merhaba, Benim GitHub Profilime Hoş Geldiniz! 👋
 
-![Profil Bannerı](link_to_banner_image)
+![Profil Bannerı](github-header-image.png)
 
-Ben [Adınız Soyadınız], yazılım geliştirme ve [alanınızı ekleyin] üzerinde çalışan bir yazılım mühendisiyim. Bu profil, projelerimi sergilemek, açık kaynak katkıları yapmak ve yazılım dünyasındaki deneyimimi paylaşmak için oluşturulmuştur.
+Ben Sezer, yazılım geliştirme üzerinde çalışan bir yazılım mühendisiyim. Bu profil, projelerimi sergilemek, açık kaynak katkıları yapmak ve yazılım dünyasındaki deneyimimi paylaşmak için oluşturulmuştur.
 
 ## 🧰 Teknolojiler ve Araçlar
 
