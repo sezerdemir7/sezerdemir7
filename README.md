@@ -23,11 +23,11 @@ Sosyal medya uygulaması demo versiyonu.
 
 ### [Sclapp backend code](https://github.com/sezerdemir7/socialmediaApp-backend)
 
-Sosyal medya uygulamsı backend  Java/Spring kodları.
+Sosyal medya uygulaması backend  Java/Spring kodları.
 
 ### [Sclapp frontend code](https://github.com/sezerdemir7/socialmediaApp-frontEnd)
 
-Sosyal medya uygulamsı frontend React kodları.
+Sosyal medya uygulaması frontend React kodları.
 
 
 
