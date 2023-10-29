@@ -17,15 +17,15 @@ Aşağıda, kullandığım bazı ana teknolojileri ve araçları bulabilirsiniz:
 
 Aşağıda, bazı önemli projelerimi bulabilirsiniz:
 
-### [Sclapp demo](https://sclapp.vercel.app/)
+### [SocialMediaApp demo](https://sclapp.vercel.app/)
 
 Sosyal medya uygulaması demo versiyonu.
 
-### [Sclapp backend code](https://github.com/sezerdemir7/socialmediaApp-backend)
+### [SocialMediaApp backend code](https://github.com/sezerdemir7/socialmediaApp-backend)
 
 Sosyal medya uygulaması backend  Java/Spring kodları.
 
-### [Sclapp frontend code](https://github.com/sezerdemir7/socialmediaApp-frontEnd)
+### [SocialMediaApp frontend code](https://github.com/sezerdemir7/socialmediaApp-frontEnd)
 
 Sosyal medya uygulaması frontend React kodları.
 
