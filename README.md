@@ -29,25 +29,6 @@ Sosyal medya uygulaması backend  Java/Spring kodları.
 
 Sosyal medya uygulaması frontend React kodları.
 
-## 📊 GitHub İstatistikleri
-
-[![Sezer demir's github stats](https://github-readme-stats.vercel.app/api?username=sezerdemir7&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-[![SezerDemir's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sezerdemir7&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Tech Stack
-<br>
-<p>Backend</p>
-
-<blockquote>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> 
-</blockquote>
-<br>
-
 
 
 
@@ -65,9 +46,9 @@ Eğer projelerime katkıda bulunmak veya desteklemek isterseniz, projelerimi yı
 
 
 
+## 📊 GitHub İstatistikleri
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sezerdemir7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
