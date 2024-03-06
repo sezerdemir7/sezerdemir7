@@ -17,6 +17,9 @@ Aşağıda, kullandığım bazı ana teknolojileri ve araçları bulabilirsiniz:
 
 Aşağıda, bazı önemli projelerimi bulabilirsiniz:
 
+### [E-ticaret sitesi](https://github.com/sezerdemir7/E-ticaret)
+E-ticaret sitesi backend kodları.
+
 ### [SocialMediaApp demo](https://sclapp.vercel.app/)
 
 Sosyal medya uygulaması demo versiyonu.
