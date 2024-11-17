@@ -57,9 +57,7 @@ Eğer projelerime katkıda bulunmak veya desteklemek isterseniz, projelerimi yı
 
 
 
-## 📊 GitHub İstatistikleri
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sezerdemir7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
