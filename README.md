@@ -1,56 +1,91 @@
-# Merhaba, Benim GitHub Profilime Hoş Geldiniz! 👋
+<h1 align="center">Hi, I'm Sezer 👋</h1>
+<h3 align="center">Software Engineer | Backend Developer | Java & Spring Boot Enthusiast</h3>
 
-![Profil Bannerı](github-header-image.png)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sezer-demir-9ab5b223a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sezerdemir7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Ben Sezer, yazılım geliştirme üzerinde çalışan bir yazılım mühendisiyim. Bu profil, projelerimi sergilemek, açık kaynak katkıları yapmak ve yazılım dünyasındaki deneyimimi paylaşmak için oluşturulmuştur.
+---
 
-## 🧰 Teknolojiler ve Araçlar
+## 👨‍💻 About Me
 
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> </a>  </a> <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws s3" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+I’m a Software Engineer focused on building **scalable backend systems**, **microservices architectures**, and **robust APIs**.
 
-## Stats
+- 🔭 Currently working with **Java, Spring Boot, Microservices, and Docker**
+- 🌱 Continuously improving my skills by applying **Clean Code principles**
+- 👯 Open to contributing to **open-source projects**
+- 📫 Reach me via **LinkedIn**
 
-[![sezerdemir7's github stats](https://github-readme-stats.vercel.app/api?username=sezerdemir7&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://streak-stats.demolab.com?user=sezerdemir7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+---
 
-## 🚀 Projeler
+## 🧰 Tech Stack
 
-Aşağıda, bazı önemli projelerimi bulabilirsiniz:
+### 🔙 Backend & Frameworks
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
+</p>
 
-### [E-ticaret sitesi](https://github.com/sezerdemir7/E-ticaret)
-E-ticaret sitesi backend kodları.
+### 🗄️ Databases, Caching & Messaging
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
+</p>
 
-### [SocialMediaApp demo](https://sclapp.vercel.app/)
+### ⚙️ DevOps & Cloud & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+</p>
 
-Sosyal medya uygulaması demo versiyonu.
+### 🎨 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+</p>
 
-### [SocialMediaApp backend code](https://github.com/sezerdemir7/socialmediaApp-backend)
+---
 
-Sosyal medya uygulaması backend  Java/Spring kodları.
+## 🚀 Featured Projects
 
-### [SocialMediaApp frontend code](https://github.com/sezerdemir7/socialmediaApp-frontEnd)
+### 🛠️ [PostmanCollectionGenerator](https://github.com/sezerdemir7/PostmanCollectionGenerator)
+A powerful open-source tool that automatically generates Postman collections for Spring Boot APIs by scanning endpoints and creating ready-to-use requests.
 
-Sosyal medya uygulaması frontend React kodları.
+### 🏗️ [Library Management System (Microservices)](https://github.com/sezerdemir7/Kitaplik-Microservice)
+A project built with microservice architecture principles, focusing on service communication, independent databases, and scalability.
 
-
-
-
-## 📫 İletişim
-
-Sosyal medya ve iletişim bağlantılarınızı buraya ekleyin:
-
-- [LinkedIn](www.linkedin.com/in/sezer-demir-9ab5b223a)
-- [Twitter](https://twitter.com/)
-
-
-## 🌟 Beni Destekle
-
-Eğer projelerime katkıda bulunmak veya desteklemek isterseniz, projelerimi yıldızlamayı düşünün. Her tür katkı büyük bir destek olur!
-
-
-
-
-
+### 🛒 [E-Commerce Backend](https://github.com/sezerdemir7/E-ticaret)
+Backend services for a comprehensive e-commerce platform, including product management, order processing, and secure API design.
 
 
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sezerdemir7&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
+  
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sezerdemir7&theme=blue-green&hide_border=true" />
+</p>
+
+---
+
+## 🌟 Support
+
+If you find my projects useful, consider giving them a ⭐  
+Feedback and contributions are always welcome!
