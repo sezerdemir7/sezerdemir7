@@ -14,14 +14,14 @@
 
 ## 👨‍💻 About Me
 
-I’m a Software Engineer focused on building **scalable backend systems**, **microservices architectures**, and **robust APIs**.
+I'm a Software Engineer passionate about building scalable backend applications, designing microservices, and developing reliable REST APIs with Java and Spring Boot.
 
-- 🔭 Currently working with **Java, Spring Boot, Microservices, and Docker**
-- 🌱 Continuously improving my skills by applying **Clean Code principles**
-- 👯 Open to contributing to **open-source projects**
-- 📫 Reach me via **LinkedIn**
+* 🚀 Building backend applications with **Java, Spring Boot, Microservices, Docker, and PostgreSQL**
+* 🌱 Continuously improving my software engineering skills by applying **Clean Code**, **SOLID**, and **best practices**
+* 💡 Interested in distributed systems, cloud-native applications, and backend architecture
+* 👯 Open to collaborating on **open-source** and backend-focused projects
+* 📫 Reach me via **LinkedIn**
 
----
 
 ## 🧰 Tech Stack
 
@@ -59,14 +59,19 @@ I’m a Software Engineer focused on building **scalable backend systems**, **mi
 
 ## 🚀 Featured Projects
 
+### 🛒 [Microservices E-Commerce Platform](https://github.com/sezerdemir7/n11-talenthub-final-case)
+
+A production-ready e-commerce platform built with a microservices architecture and deployed on GCP. Features 9 Spring Boot services, Saga pattern for distributed transactions, RabbitMQ event-driven communication, JWT authentication, React frontend, Docker, Jenkins CI/CD, AWS S3 integration, Iyzico payment gateway, and Grafana/Loki observability.
+
 ### 🛠️ [PostmanCollectionGenerator](https://github.com/sezerdemir7/PostmanCollectionGenerator)
+
 A powerful open-source tool that automatically generates Postman collections for Spring Boot APIs by scanning endpoints and creating ready-to-use requests.
 
 ### 🏗️ [Library Management System (Microservices)](https://github.com/sezerdemir7/Kitaplik-Microservice)
+
 A project built with microservice architecture principles, focusing on service communication, independent databases, and scalability.
 
-### 🛒 [E-Commerce Backend](https://github.com/sezerdemir7/E-ticaret)
-Backend services for a comprehensive e-commerce platform, including product management, order processing, and secure API design.
+
 
 
 
